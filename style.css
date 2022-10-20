@@ -20,7 +20,7 @@ body{
 .left{
 	background-color: #1DA1F2;
 	width: 200px;
-	height: 200%;
+	height: 11000%;
 	float: left;
 }
 .right{
@@ -43,7 +43,7 @@ body{
 }
 .box-1{
 	position: relative;
-	height: 170px;
+	height: 200px;
 }
 .heading{
 	background-color: #4d4d4d;
